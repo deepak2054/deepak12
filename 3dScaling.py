@@ -1,4 +1,4 @@
-#reflection 3D
+#scaling 3D
 from tkinter import *
 from math import sqrt
 from math import sin, cos, radians, pi
